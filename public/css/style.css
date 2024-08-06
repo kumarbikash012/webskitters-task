@@ -1,0 +1,24 @@
+.table-container {
+    overflow-x: auto;
+}
+
+.table {
+    width: 100%;
+}
+
+input.form-control {
+    width: 200px;
+    /* Fixed width for input fields */
+}
+
+.operation-buttons {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color:#fff;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    z-index: 9;
+    width: 216px;
+}
